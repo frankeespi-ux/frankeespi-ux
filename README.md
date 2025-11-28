@@ -1,79 +1,98 @@
-# 👋 Hi, I'm Frank Espinoza
-
-Aspiring Software Developer | Telecom Technician | Computer Science Student  
-Husband • Father of 3 • Lifelong Learner  
+<!-- Banner -->
+<h1 align="center">Hi, I'm Frank Espinoza 👋</h1>
+<p align="center">
+  Aspiring Software Developer • Telecom Technician • CS Student  
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm currently pursuing my **Bachelor of Science in Computer Science**, with graduation planned for 2026.  
-Alongside school, I work full-time in **telecommunications**, specializing in business fiber/HFC installs, modem diagnostics, signal troubleshooting, Viavi meter use, and customer-facing technical support.
+I'm Frank Espinoza — a full-time **telecom technician**, **Computer Science student**, husband, and father of three.  
+I'm working toward transitioning into a career in **software development, cloud engineering**, or **AI-related tech**.
 
-I'm transitioning into software engineering because I enjoy solving problems, building systems, and constantly learning new technologies. My long-term goal is to work in **software development, cloud, or AI-driven engineering**.
-
-I’m also balancing school, work, and family life — and still pushing forward every day.
-
----
-
-## 🧑‍💻 What I’m Working On
-
-- Strengthening my Java skills  
-- Building small-to-medium console apps and backend-style tools  
-- Learning data structures and algorithms  
-- Preparing for future roles in software and cloud engineering  
-- Adding real, meaningful projects to my GitHub portfolio  
+I’m currently learning Java and strengthening my programming fundamentals in preparation for real developer roles.  
+Every project I post here represents growth, effort, and progress toward a better future for my family and my career.
 
 ---
 
-## 📌 Featured Project
+## 🧑‍💻 Featured Project
 
-### **Service Ticket Manager (Java Console App)**
-My first real Java project — a console-based ticketing system that lets you create, filter, and update service tickets using OOP design.  
-It represents the beginning of my development journey.
+### 🌟 **ServiceTicketManager (Java Console Application)**
+My first full Java project — a console-based service ticket system using OOP concepts.  
+Includes ticket creation, filtering, updating status, and clean class design.
 
-👉 Repo: https://github.com/frankeespi-ux/ServiceTicketManager
+👉 **Repo:** https://github.com/frankeespi-ux/ServiceTicketManager
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### **Languages**
-- Java  
-- Python (beginner)  
-- JavaScript (learning basics)
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+</div>
 
-### **Tools**
-- VS Code  
-- Git & GitHub  
-- IntelliJ (learning)  
-- Viavi meters (telecom)  
-- Linux basics  
-- PowerShell  
-
----
-
-## 🎯 Goals for 2025–2026
-
-- Build 5–10 solid Java portfolio projects  
-- Learn Spring Boot  
-- Start learning cloud (AWS or Azure)  
-- Strengthen algorithms & data structures  
-- Earn certifications (Security+, AWS, or CCNA)  
-- Land my first software engineering role  
+### **Tools & Platforms**
+<div>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>  
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
 
-**GitHub:** https://github.com/frankeespi-ux  
-
----
-
-## 📈 Fun Fact
-
-I’m a former athlete with a strong drive to improve — and I’m rebuilding that discipline through coding, learning, and pushing toward a better future for my family and career.
+- Java (OOP, data structures, algorithms)  
+- Software design fundamentals  
+- Git, GitHub workflows  
+- Backend logic and console application design  
 
 ---
 
-⭐ *Thanks for visiting my profile — more projects coming soon!*  
+## 🎯 2025–2026 Goals
+
+- Build **5–10 strong Java portfolio projects**  
+- Learn **Spring Boot**  
+- Earn **CompTIA Security+**, **AWS Cloud Practitioner**, or **CCNA**  
+- Strengthen problem-solving (LeetCode, HackerRank)  
+- Learn SQL + databases  
+- Land my first full-time **software development** role  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=frankeespi-ux&show_icons=true&theme=tokyonight" height="155"/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankeespi-ux&layout=compact&theme=tokyonight" height="155"/>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+Before diving into software, I spent almost a decade in telecommunications — diagnosing modems, analyzing signal levels, installing fiber/HFC systems, and solving tough real-world technical problems.
+
+Now I’m bringing that same discipline, work ethic, and problem-solving mindset into software engineering.
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** https://github.com/frankeespi-ux  
+- More links coming soon as I build out my portfolio
+
+---
+
+⭐ *Thanks for stopping by — I’m just getting started, and more projects are on the way.*  
