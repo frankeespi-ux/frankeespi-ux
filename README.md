@@ -32,7 +32,7 @@ I’m also balancing school, work, and family life — and still pushing forward
 My first real Java project — a console-based ticketing system that lets you create, filter, and update service tickets using OOP design.  
 It represents the beginning of my development journey.
 
-👉 Repo: https://github.com/frankeepi-ux/ServiceTicketManager
+👉 Repo: https://github.com/frankeespi-ux/ServiceTicketManager
 
 ---
 
@@ -66,7 +66,7 @@ It represents the beginning of my development journey.
 
 ## 📫 Connect With Me
 
-**GitHub:** https://github.com/frankeepi-ux  
+**GitHub:** https://github.com/frankeespi-ux  
 
 ---
 
